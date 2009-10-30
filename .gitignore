@@ -1,0 +1,10 @@
+log/*.log
+tmp/**/*
+tmp/*
+config/database.yml
+tmp/*
+db/*.sqlite3
+coverage/*
+coverage.data
+*~
+*.swp
